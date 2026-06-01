@@ -25,18 +25,18 @@ li {
 
 li a {
   display: block;
-  color: rgb(252, 195, 214);
+  color: rgb(25, 20, 22);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: orange;
+  background-color: powderblue;
 }
 
 .active {
-  background-color: red;
+  background-color: rgb(184, 135, 212);
 }
 
 h1 {
