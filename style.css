@@ -1,8 +1,9 @@
 /* Styling Only Related To ALL Pages */
-
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
 body {
   padding-top: 30px;
   margin-left: 0px;
+   font-family: "Irish Grover", system-ui;
 }
 /* ⬆⬆⬆⬆ Nav Bar Styling 
 ~~~~~ Taken From: 
